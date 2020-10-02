@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export CLASSPATH=$CLASSPATH:etc:bin:lib/log4j-1.2.14.jar:lib/commons-logging-1.0.4.jar
+
+pushd .. >/dev/null
+java com/ff/test/JEvaluatorTest
+popd >/dev/null

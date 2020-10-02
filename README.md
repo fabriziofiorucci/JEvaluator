@@ -129,16 +129,16 @@ expr.isFunctionRegistered ( "avg" );
 
 ### ChangeLog
 
-0.9 - Major enhancements: support for boolean operators and boolean bitwise operators (three subreleases for Java 1.4, 1.5 and 1.6) - October 6th, 2007
-0.8 - Major enhancements: support for text with inline expressions expansion (three subreleases for Java 1.4, 1.5 and 1.6) - August 28th, 2007
-0.7.1 - Minor enhancements: 0.7 release backported to be compatible with Java 1.4 - August 6th, 2007
-0.7 - Minor enhancements: small bugfixes - July 30th, 2007
-0.6 - Major enhancements: support for literal and string variables - November 8th, 2006
-0.5 - Major enhancements: support for conditional and branch-case expressions - October 9th, 2006
-0.4 - Minor enhancements: strict declarations according to Java 5 specifications added. Script to run the example code fixed - September 7th, 2006
-0.3 - License changed from GPL to LGPL - July 27th, 2006
-0.2 - Added support for dynamic registration/unregistration of user-defined functions - July 27th, 2006
-0.1b - First public release - July 9th, 2006
+- 0.9 - Major enhancements: support for boolean operators and boolean bitwise operators (three subreleases for Java 1.4, 1.5 and 1.6) - October 6th, 2007
+- 0.8 - Major enhancements: support for text with inline expressions expansion (three subreleases for Java 1.4, 1.5 and 1.6) - August 28th, 2007
+- 0.7.1 - Minor enhancements: 0.7 release backported to be compatible with Java 1.4 - August 6th, 2007
+- 0.7 - Minor enhancements: small bugfixes - July 30th, 2007
+- 0.6 - Major enhancements: support for literal and string variables - November 8th, 2006
+- 0.5 - Major enhancements: support for conditional and branch-case expressions - October 9th, 2006
+- 0.4 - Minor enhancements: strict declarations according to Java 5 specifications added. Script to run the example code fixed - September 7th, 2006
+- 0.3 - License changed from GPL to LGPL - July 27th, 2006
+- 0.2 - Added support for dynamic registration/unregistration of user-defined functions - July 27th, 2006
+- 0.1b - First public release - July 9th, 2006
 
 ### Related projects
 - [STX Expression Parser C++ Framework](https://github.com/bingmann/stx-exparser "STX Expression Parser C++ Framework")

@@ -101,7 +101,7 @@ if ( expr.isVarDefined ( "base" ) == true )
 ```
 - User-defined functions handling
   - Registration
-``
+```
 expr.registerFunction ( new Avg() );
 ```
   - Unregistration by function object
@@ -141,5 +141,4 @@ expr.isFunctionRegistered ( "avg" );
 0.1b - First public release - July 9th, 2006
 
 ### Related projects
-https://github.com/bingmann/stx-exparser STX Expression Parser C++ Framework
-[STX Expression Parser C++ Framework](https://github.com/bingmann/stx-exparser "STX Expression Parser C++ Framework")
+- [STX Expression Parser C++ Framework](https://github.com/bingmann/stx-exparser "STX Expression Parser C++ Framework")
